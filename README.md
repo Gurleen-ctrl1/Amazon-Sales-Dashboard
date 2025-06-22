@@ -2,7 +2,6 @@
 
 An interactive dashboard built using Power BI to analyze over ₹11.58M in sales data from Amazon, providing insights into order fulfillment, courier performance, regional shipping trends, and product distribution.
 
-![Dashboard Screenshot](dashboard_screenshots/dashboard_overview.png)
 
 ---
 
